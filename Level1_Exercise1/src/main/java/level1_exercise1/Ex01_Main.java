@@ -12,12 +12,8 @@ public class Ex01_Main {
 
     public static void weekEndChecker(Day day) {
         switch(day) {
-            case SATURDAY:
-            case SUNDAY:
-                System.out.println(day + " is weekend!");
-                break;
-            default:
-                System.out.println(day + " is a working day!");
+            case SATURDAY, SUNDAY -> System.out.println(day + " is weekend!");
+            default -> System.out.println(day + " is a working day!");
         }
     }
 
