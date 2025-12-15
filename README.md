@@ -57,7 +57,7 @@ the built-in valueOf() method, and ensuring proper error management if the input
 * IntelliJ
 
 ## 🛠️Installation
-Clone this repository : -> [git clone]https://github.com/FedEx8525/1.9-Enums-Dates-and-Records
+Clone this repository : -> [git clone](https://github.com/FedEx8525/1.9-Enums-Dates-and-Records)
 
 ## ▶️Execution 
 * Run the program in IntelliJ
