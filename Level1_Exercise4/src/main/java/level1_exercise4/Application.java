@@ -17,8 +17,8 @@ public class Application {
 
 
     public static Level convertStringToLevel(String levelString) {
-        try {
 
+        try {
             Level level = Level.valueOf(levelString.toUpperCase());
             System.out.println("Successful conversion: the String \"" + levelString +
                     "\" is converted into Level " + level);
